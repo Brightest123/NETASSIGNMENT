@@ -1,0 +1,24 @@
+.img {
+  width: 400px;
+  height: 400px;
+}
+.btn {
+  -webkit-border-radius: 17;
+  -moz-border-radius: 17;
+  border-radius: 17px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #020405;
+  padding: 9px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  text-decoration: none;
+}
+.icon ul {
+  width: 2px;
+  display: inline-flex;
+  
+}
