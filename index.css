@@ -1,0 +1,71 @@
+* {
+}
+
+.pics {
+  width: 30px;
+  height: 30px;
+}
+.pics1 {
+  width: 40px;
+  height: 40px;
+  left: 10px;
+}
+
+.header-img {
+  background-image: url(images/mbr.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  padding: 8rem 0;
+}
+
+.btn {
+  font-family: Arial;
+  color: #121112;
+  font-size: 20px;
+  background: #f7d9c4;
+  padding: 16px 25px 14px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #fff;
+  text-decoration: none;
+}
+
+.btns {
+  font-family: Arial;
+  color: #121112;
+  font-size: 20px;
+  background: #dce8eb;
+  padding: 16px 25px 14px 20px;
+  text-decoration: none;
+  border: none;
+}
+
+.btn:hover {
+  background: #fff;
+  text-decoration: none;
+}
+ul {
+  list-style-type: none;
+}
+
+.second-class li::before {
+  content: "✓";
+  padding: 5px;
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+.container {
+  padding: 30px;
+}
+
+.social {
+  color: black;
+  background-color: #fff;
+  padding: 10px;
+}
+
+
