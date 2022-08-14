@@ -1,0 +1,25 @@
+* {
+  align-items: center;
+}
+
+.btn {
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #cc7a00;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn2 {
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #cc7a00;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.container8 {
+  justify-content: space-between;
+}
